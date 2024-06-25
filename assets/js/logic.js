@@ -8,7 +8,7 @@ const applyMode = function (mode) {
     circleColor = '#ffb100';
   } else {
     icon = '🌑';
-    circleColor = '#82ff59';
+    circleColor = '#a81717';
   }
 
   modeBtnEl.textContent = icon;
